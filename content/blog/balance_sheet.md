@@ -1,6 +1,7 @@
 ---
 title: "Notes on Balance Sheet"
 date: 2023-09-29T03:38:55Z
+tags: [fundamental analysis]
 ---
 ## TL;DR
 - Shows what the company owns (asset) and what it ows (liability)
@@ -35,11 +36,14 @@ This line item becomes especially important for companies in financial distresse
 ### Stockholder's equity
 Pay attention to the retained earnings which records the amount of capital a company has generated over its lifetime - minus dividends and stock buybacks, which represent funds that have already been returned to shareholders. 
 
+## How to analyze the balance sheet
+- Asset quality: check for a strong, diverse asset base
+- Working capital: Ensure there are enough resources to cover short-term debt
+- Debt level
 
-## Why do we look at the balance sheet?
+--/ Todo /--
+- Things to pay attention to when looking at the balance sheet
 
-## Things to pay attention to when looking at the balance sheet
 
-
-If you'd like to learn more about this topic, I'd recommend "The Five Rules for Successful Stock Investing" by Pat Dorsey, available at:
+If you'd like to learn more about this topic, I'd recommend "The Five Rules for Successful Stock Investing" by Pat Dorsey. The book provides very solid explanation for beginners. It is available at:
 <a target="_blank" href="https://www.amazon.com/Five-Rules-Successful-Stock-Investing/dp/B08BX7RTJM/ref=sr_1_1?crid=NZ30FTPEQM2Q&amp;keywords=pat+dorsey&amp;qid=1695960723&amp;sprefix=pat+dorsey%252Caps%252C370&amp;sr=8-1&_encoding=UTF8&tag=amazonaff0d66-20&linkCode=ur2&linkId=7b8ca56965812c210bf09396581bb0e8&camp=1789&creative=9325">The Five Rules for Successful Stock Investing</a>
