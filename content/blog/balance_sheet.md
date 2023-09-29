@@ -2,8 +2,6 @@
 title: "Notes on Balance Sheet"
 date: 2023-09-29T03:38:55Z
 ---
-# Balance sheet
-
 ## TL;DR
 - Shows what the company owns (asset) and what it ows (liability)
 - Difference between assets and liabilities is equity
