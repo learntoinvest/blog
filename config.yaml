@@ -36,18 +36,18 @@ markup:
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
-  github: your-github-link
-  twitter: your-github-link
-  stackoverflow: your-github-link
+  #github: your-github-link
+    #twitter: your-github-link
+    #stackoverflow: your-github-link
   # facebook: your-facebook-link
 
 
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: George
   # Author biography
-  bio: Software Engineer
+  bio: George
   # Site Description, used in HTML meat
   description: My Blog
 
@@ -70,7 +70,7 @@ params:
   math: false
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
-  # Website copy write, default: '© Copyright 2021 ❤️ {params.author}'
+  # Website copy write, default: '© Copyright 2023 {params.author}'
   copyright: '' 
 
   # Extra links in navigation

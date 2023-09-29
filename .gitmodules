@@ -1,3 +1,9 @@
 [submodule "themes/mini"]
 	path = themes/mini
 	url = https://github.com/nodejh/hugo-theme-mini.git
+[submodule "learntoinvest.github.io"]
+	path = learntoinvest.github.io
+	url = https://github.com/learntoinvest/learntoinvest.github.io.git
+[submodule "public"]
+	path = public
+	url = https://github.com/learntoinvest/learntoinvest.github.io.git
